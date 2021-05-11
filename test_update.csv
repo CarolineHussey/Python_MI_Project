@@ -1,0 +1,7 @@
+pid,ages,sexes,bmis,num_children,smoker_statuses,regions,cost
+7,101,Male,32,5,Yes,Southeast,
+10,52,Male,28,1,No,Northeast,
+,96,Female,36,5,Yes,Southeast,
+4,75,Female,25,2,No,Southwest,Free
+,75,Female,25,2,No,Southwest,Free
+3,41,Female,30,0,No,Northwest,12500
